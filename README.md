@@ -1,6 +1,6 @@
-# rep1
+# rep1 cos
 
 miau
-cos
-znowu
+
 konflikt
+
